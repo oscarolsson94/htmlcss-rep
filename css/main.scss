@@ -24,4 +24,17 @@ body {
       color: var(--primary-color);
     }
   }
+
+  nav {
+    display: none;
+  }
+
+  .container {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .mobile-menu {
+    cursor: pointer;
+  }
 }
