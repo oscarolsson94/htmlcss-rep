@@ -26,7 +26,7 @@ body {
 }
 
 .navbar nav {
-  /*  display: none; */
+  display: none;
 }
 
 .navbar .container {
@@ -222,5 +222,11 @@ nav li a {
 
 nav li a:hover {
   font-weight: bold;
+}
+
+.mobile-menu-exit {
+  float: right;
+  margin: 0.5em;
+  cursor: pointer;
 }
 /*# sourceMappingURL=main.css.map */
